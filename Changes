@@ -1,0 +1,19 @@
+Proposed Structural & Animation Changes:
+
+### 1. Global Navigation & Animations
+- **Floating "Island" Bottom Nav:** Instead of a bar stuck to the bottom edge, we will create a pill-shaped, floating "Dynamic Island" style navigation bar that hovers slightly above the bottom.
+- **Page Transitions:** Implement full fade-in and slight scale-up animations when navigating between pages (Dashboard <-> Shipments) to make routing feel instantaneous and fluid.
+
+### 2. The Dashboard (Redesigned)
+- **Floating Search Bar:** Move the "Track Shipment" input to a floating, rounded search bar at the very top of the screen (overlapping the sky gradient) for maximum efficiency.
+- **Asymmetrical Hero Section:** Instead of a flat gradient block, the airplane section will have a smooth, sweeping curved bottom edge.
+- **Circular Activity Rings:** Replace the standard rectangular cards with a horizontal scrolling row of minimalist "Active Shipment" rings (similar to fitness trackers) that give a quick visual of progress.
+
+### 3. My Shipments (Redesigned)
+- **Fluid Segmented Control:** Replace the basic tab pills with an iOS-style fluid segmented control where a highlighted bubble smoothly slides behind the selected text.
+- **Timeline-based Cards:** Instead of bulky cards with "From/To" boxes, we will use a vertical timeline design for each card. A sleek line connects the origin dot to the destination dot, with the status hovering gracefully above it.
+- **Hover/Active States:** When pressing a shipment card, it will slightly shrink (scale down) and fade, giving immediate tactile feedback.
+
+### 4. Sidebar (Redesigned)
+- **Morphing Shapes:** The sidebar won't just slide in as a hard rectangle; it will slide in with a soft, curved right edge that straightens out, making the transition feel organic.
+- **Staggered Fade-in:** When the sidebar opens, the menu items won't just appear—they will stagger-fade in one by one from top to bottom.
