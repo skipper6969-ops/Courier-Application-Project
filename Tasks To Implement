@@ -1,0 +1,36 @@
+SwiftCourier Implementation Tasks:
+
+ Step 1: Project Setup & Foundation
+
+Initialize a new React project using Vite.
+Set up routing (React Router).
+Define the base CSS Design System (colors, fonts, modern reset).
+
+ Step 2: Authentication Screens
+
+Create the Login View (Mobile/Email tabs).
+Create the Registration View.
+Implement fluid input animations and transitions.
+
+ Step 3: App Shell & Navigation
+
+Build the persistent Bottom Navigation bar.
+Build the slide-out Sidebar (More Menu).
+Set up layout wrapper for all internal pages.
+
+ Step 4: Main Dashboard
+
+Implement the Header with the airplane visual/animation.
+Build the Loyalty Points card.
+Build the Quick Tracking input card.
+
+ Step 5: My Shipments View
+
+Implement smooth sliding tabs (Scheduled, In Transit, Delivered).
+Create dynamic Shipment Cards with color-coded status badges.
+
+ Step 6: Polish & Verification
+
+Verify all micro-animations.
+Ensure perfect mobile responsiveness.
+Run the local server for final client review.
